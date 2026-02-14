@@ -22,3 +22,5 @@ React.js
 - Vite
 - Tailwind CSS
 - React Router DOM
+
+- https://movie-ticket-bookingd.onrender.com
