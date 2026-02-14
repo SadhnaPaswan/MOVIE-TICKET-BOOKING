@@ -1,22 +1,24 @@
 .
 
-🎬# Movie Ticket Booking — React + Tailwind UI
+
+
+
+🎬 Movie Ticket Booking — React + Tailwind UI
 
 Movie Ticket Booking UI is a modern, fully responsive frontend movie booking interface built using React.js + Tailwind CSS.
 
 This project demonstrates a clean component-based architecture, responsive layouts, and an interactive seat selection experience — simulating a real-world cinema ticket booking system.
 
-🚀 ###Live Demo
+🚀 Live Demo
 
-👉 https://movie-ticket-bookingd.onrender.com
+👉 View Live Project
 
 🧠 Project Overview
 
 Movie Ticket Booking UI simulates the complete frontend flow of a cinema booking platform.
 
-Users can:
-
-###Feature	Description
+👇 Users Can:
+Feature	Description
 🎥 Browse Movies	View available movie listings
 📄 View Details	Check movie information & timings
 💺 Select Seats	Interactive cinema seat layout
@@ -74,7 +76,7 @@ Clean folder structure
 Scalable UI design
 
 🛠️ Tech Stack
-Frontend
+🚀 Frontend
 
 React.js (Vite)
 
@@ -82,14 +84,13 @@ Tailwind CSS
 
 React Router DOM
 
-Development Tools
+🧰 Development Tools
 
 Vite
 
 npm
 
 📂 Project Structure
-🔹 Frontend (Client)
 src
 ├── components    → Reusable UI components
 ├── pages         → Route pages
