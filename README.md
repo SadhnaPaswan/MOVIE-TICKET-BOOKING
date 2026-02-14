@@ -1,4 +1,4 @@
-🎬 Movie Ticket Booking UI
+ ##🎬 Movie Ticket Booking UI
  Modern & Responsive Movie Booking Interface
 
 A frontend-only Movie Ticket Booking UI built using React.js + Tailwind CSS.
